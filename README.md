@@ -38,6 +38,6 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** with a strong passion
 ---
 
 ## 📫 Let's Connect!
-- 💼 **LinkedIn:** ([Emre Ekinci](https://www.linkedin.com/in/emrekinci/))
+- 💼 **LinkedIn:** [Emre Ekinci](https://www.linkedin.com/in/emrekinci/)
 
 Feel free to reach out for collaborations, networking, or just to chat about tech! 🚀
