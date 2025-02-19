@@ -23,13 +23,11 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** with a strong passion
 ### Backend & Databases:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-005571?style=flat)
 
 ### Tools & Platforms:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -40,8 +38,6 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** with a strong passion
 ---
 
 ## 📫 Let's Connect!
-- 🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
 - 💼 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
 
 Feel free to reach out for collaborations, networking, or just to chat about tech! 🚀
