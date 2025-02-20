@@ -7,7 +7,7 @@
 
 ---
 
-## **🚀 About Me**
+## <p align="center">**🚀 About Me**</p>
 - 🏢 Working as a Frontend Developer with 3+ years of experience in a Cloud Hotel Mangement company.
 - 💻 Passionate about Front-end Development, UI/UX and Creative Web Apps 
 - 🎨 Experienced in Figma and UX principles to enhance user experiences.
@@ -101,7 +101,7 @@
 
 ---
 
-## **📊 GitHub Stats**
+## <p align="center">**📊 GitHub Stats**</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eekincii&show_icons=true&theme=github_dark" height="200px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eekincii&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="emreekinci" />
@@ -109,14 +109,14 @@
 
 ---
 
-## **🔥 GitHub Contributions**
+## <p align="center">**🔥 GitHub Contributions**</p>
 <p align="center">
  <img style="width:100%" src="./snake.svg" />
 </p>
 
 ---
 
-## **💼 Let's Connect!**
+## <p align="center">**💼 Let's Connect!**</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/emrekinci/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
