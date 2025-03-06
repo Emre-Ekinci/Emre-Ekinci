@@ -8,7 +8,7 @@
 ---
 
 ## <p align="center">**🚀 About Me**</p>
-- 🏢 Working as a Frontend Developer with 3+ years of experience in a Cloud Hotel Mangement company.
+- 🏢 Working as a Frontend Developer with 2+ years of experience in a Cloud Hotel Mangement company.
 - 💻 Passionate about Front-end Development, UI/UX and Creative Web Apps 
 - 🎨 Experienced in Figma and UX principles to enhance user experiences.
 - 🎮 Diablo 4 player in my free time.
