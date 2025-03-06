@@ -104,7 +104,7 @@
 ## <p align="center">**📊 GitHub Stats**</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Emre-Ekinci&show_icons=true&theme=github_dark" height="200px" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emre-Ekinci&layout=compact&hide_border=false&theme=midnight-purple&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emre-Ekinci&layout=compact&hide_border=false&theme=midnight-purple&count_private=true" />
 </p>
 
 ---
