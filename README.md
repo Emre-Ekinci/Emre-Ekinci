@@ -38,30 +38,17 @@
   <a href="https://angular.io/" target="_blank">
     <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  </a>
   <a href="https://react.dev/" target="_blank">
    <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" />
-  </a>
-
-</p>
-
-
-### <p align="center">**Frontend & Backend**</p>
-<p align="center">
-
- <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
 </p>
 
 
 ### <p align="center">**Backend**</p>
 <p align="center">
+   <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  </a>
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   </a>
